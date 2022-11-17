@@ -13,7 +13,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/osezele oghedegbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osezele oghedegbe" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/osezele oghedegbe" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/billie.z.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="billie.z.z" height="60" width="80" /></a>
 </p>
 
