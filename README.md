@@ -13,8 +13,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/osezele oghedegbe" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://instagram.com/billie.z.z" target="blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/osezele oghedegbe" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" /></a>
+<a href="https://instagram.com/billie.z.z" target="blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 10px;" /></a>
 </p>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
