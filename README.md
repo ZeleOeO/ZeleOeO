@@ -1,9 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Osezele Oghedegbe</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code&pause=1000&color=1BFF46&background=000000&center=true&vCenter=true&width=435&lines=Zele's+GitHub;Welcome...;.....;Scroll+Please...;%3A)" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">A passionate Computer Science Student, who just recently learnt about Github.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeleoeo&label=Profile%20views&color=0e75b6&style=flat" alt="zeleoeo" /> </p>
-
+<p align="center"> <img src="https://profile-counter.glitch.me/zeleoeo/count.svg" alt="zeleoeo" /> </p>
 
 - 🌱 I’m currently learning **: Python Algorithms and Android App Development**
 
@@ -20,10 +23,16 @@
 <h2 align="left">🛠️ Languages and Tools:</h2>
 <p align="right"> 
 <div align = "center">
-<img src = "https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,flutter,arduino,tensorflow,unity,java,unity&theme=light" height = "60px">
+<img src = "https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,flutter,arduino,tensorflow,unity,java&theme=dark" height = "60px">
 </div>
 </p>
 
-<h2 align="left">📈 Github Stats:</h2>
-<div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeleoeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="zeleoeo" width="500px"/></div><br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=dark" alt="zeleoeo"/>
+<h2 align="left">📈 Coding and Github Stats:</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=tokyonight" alt="zeleoeo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=tokyonight&hide=prs,contribs">
+<h2>📑Wakatime Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zele&theme=tokyonight">
+<h2>⭐Pinned Repo</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=Artificial-Intelligence-Flappy-Bird&theme=tokyonight">
+
+<h3>Check out my latest tweets</h3>
