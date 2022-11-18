@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A passionate Computer Science Student, who just recently learnt about Github.</h3>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/zeleoeo/count.svg" alt="zeleoeo" /> </p>
+<p align="right"> <img src="https://profile-counter.glitch.me/zeleoeo/count.svg" alt="zeleoeo" height="25px"/> </p>
 
 - 🌱 I’m currently learning **: Python Algorithms and Android App Development**
 
@@ -28,7 +28,7 @@
 </p>
 
 <h2 align="left">📈 Coding and Github Stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=tokyonight" alt="zeleoeo"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=soft-green" alt="zeleoeo"/>
 <img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=tokyonight&hide=prs,contribs">
 <h2>📑Wakatime Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zele&theme=tokyonight">
