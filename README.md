@@ -26,5 +26,4 @@
 
 <h2 align="left">📈 Github Stats:</h2>
 <div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeleoeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="zeleoeo" width="500px"/></div><br>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=dark" alt="zeleoeo"/><br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeleoeo&theme=dark" height="190px"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=dark" alt="zeleoeo"/>
