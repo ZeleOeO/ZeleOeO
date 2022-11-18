@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Osezele Oghedegbe</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code&pause=1000&color=1BFF46&background=000000&center=true&vCenter=true&width=435&lines=Zele's+GitHub;Welcome...;.....;Scroll+Please...;%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code&pause=1000&color=1BFF46&background=FFFFFF&center=true&vCenter=true&width=435&lines=Zele's+GitHub;Welcome...;.....;Scroll+Please...;%3A)" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">A passionate Computer Science Student, who just recently learnt about Github.</h3>
 
