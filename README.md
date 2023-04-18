@@ -8,6 +8,7 @@
 
 <h3 align="center">A passionate Computer Science Student, who just recently learnt about Github.</h3>
 
+<p align="right"><b> Visitor Count</b></P>
 <p align="right"> <img src="https://profile-counter.glitch.me/zeleoeo/count.svg" alt="zeleoeo" height="25px"/> </p>
 
 - 🌱 I’m currently learning **: Natural Language Processing and Backend**
