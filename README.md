@@ -30,8 +30,8 @@
 </p>
 
 <h2 align="left">📈 Coding and Github Stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=transparent" alt="zeleoeo" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=transparent" alt="zeleoeo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent">
 
 
 <h2 align = "left">📑Wakatime Stats</h2>
