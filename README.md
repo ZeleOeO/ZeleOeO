@@ -31,13 +31,8 @@
 </p>
 
 <h2 align="left">📈 Coding and Github Stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeleoeo&theme=transparent" alt="zeleoeo"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent" align="center">
 
-
-<h2 align = "left">📑Wakatime Stats</h2>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zele&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>⭐Pinned Repo</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent" align="center">
