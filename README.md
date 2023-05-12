@@ -23,16 +23,16 @@
 <a href="https://instagram.com/billie.z.z" target="blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" height="40px" /></a>
 </p>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
-<p align="right"> 
-<div align = "center">
-<img src = "https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,flutter,arduino,tensorflow,unity,java&theme=dark" height = "60px">
 </div>
-</p>
-
-<h2 align="left">📈 Coding and Github Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent" align="center">
-
-
-<h2>⭐Pinned Repo</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent" align="center">
+<div align="center">
+  <h2>🛠️ Languages and Tools:</h2>
+  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,flutter,arduino,tensorflow,unity,java&theme=dark" height="60px">
+</div>
+<div align="center">
+  <h2>📈 Coding and Github Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent" align="center">
+</div>
+<div align="center">
+  <h2>⭐ Pinned Repositories:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent" align="center">
+</div>
