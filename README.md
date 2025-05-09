@@ -35,4 +35,7 @@
 <div align="center">
   <h2>⭐ Pinned Repositories:</h2>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent" align="center">
+  <br>
+  <p></p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=Oshop&theme=transparent" align="center">
 </div>
