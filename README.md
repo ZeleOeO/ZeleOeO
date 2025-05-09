@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent" align="center">
 </div>
 <div align="center">
-  <h2>⭐ Pinned Repositories:</h2>
+  <h2>⭐Repo Spotlight</h2>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=AI-News-Classifier&theme=transparent" align="center">
   <br>
   <p></p>
