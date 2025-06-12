@@ -1,6 +1,6 @@
 Hi, I'm Zele 👋 — I build full-stack apps, bots, and games. 
 
-I like crafting systems from the chip to the cloud.
+I like touching stuff and doing whatever
 
 -----------
 ```yaml                                                                  
