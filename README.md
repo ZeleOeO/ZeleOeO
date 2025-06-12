@@ -1,4 +1,4 @@
-Hi, I'm Zele 👋 — I build full-stack apps, bots, and games. 
+Hi, I'm Zele 👋 — I build apps, bots, and games. 
 
 I like touching stuff and doing whatever
 
