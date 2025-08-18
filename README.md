@@ -24,8 +24,9 @@ I like touching stuff and doing whatever
 
 > cd Projects && ls
   zelcoin            -> A blockchain in Java + Spring Boot
-  ai-news-classifier -> Classifies news using AI models
-  ic-bot             -> Telegram bot for trading ICTokens
+  ai-news-classifier -> A model that classifies the news
+  ic-bot             -> A telegram bot for trading ICTokens
+  chippy             -> A Chip 8 Emulator in C++
   dev-portfolio      -> Personal site (coming soon!)
 
 > curl github.com/ZeleOeO
