@@ -23,6 +23,7 @@ I like touching stuff and doing whatever
   AI/ML:  TensorFlow | scikit-learn
 
 > cd Projects && ls
+
   zelcoin            -> A blockchain in Java + Spring Boot
   ai-news-classifier -> A model that classifies the news
   ic-bot             -> A telegram bot for trading ICTokens
@@ -37,18 +38,3 @@ I like touching stuff and doing whatever
 > exit
 ```
 ------
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h2>📈 Coding and Github Stats:</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=zeleoeo&show_icons=true&theme=transparent">
-      </td>
-      <td>
-        <h2>⭐ Repo Spotlight</h2>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=CraslyV2&theme=transparent"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeleoeo&repo=ZelCoin-SB&theme=transparent">
-      </td>
-    </tr>
-  </table>
-</div>
